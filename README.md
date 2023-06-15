@@ -10,6 +10,7 @@ Welcome to my portfolio, where I showcase my [projects.](https://github.com/Onyx
 ### 🛠️ Tools
 - Database: Google BigQuery, PostgreSQL
 - Python: NumPy, Pandas, Matplotlib, Seaborn, Sklearn
+- R: Tidyverse, Here, Skimr, Janitor, Lubridate, Reshape2
 - Business Intelligence: Tableau, Microsoft Power BI
 
 
