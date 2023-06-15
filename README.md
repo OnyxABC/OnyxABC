@@ -4,7 +4,7 @@ I'm Onyi, a result-driven data professional with a strong focus in Excel, SQL, P
 I am open to entry-level Data Science, data Analyst or Business Intelligence Analyst roles in diverse sectors to utilize my analytical skills and provide better insights for business development. 
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects.](https://github.com/OnyxABC/My-Project-Portfolio)
+Welcome to my portfolio, where I showcase my [projects.](https://github.com/OnyxABC/Portfolio_Guide)
 
 
 ### 🛠️ Tools
